@@ -1,2 +1,2 @@
-# practices
+# kihin
 Created with CodeSandbox
